@@ -6,7 +6,6 @@ NOT OPTIMIZED!!!
 """ 
 __author__ = "ChopTradoor"
 __contract__ = "https://twitter.com/ChopTradoor"
-__version__ = "1.0.0"
 
 import re
 from binance import Client, ThreadedWebsocketManager, ThreadedDepthCacheManager
