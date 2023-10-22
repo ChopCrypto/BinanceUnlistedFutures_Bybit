@@ -11,6 +11,8 @@ Simply run the code using Python command
 
 Output will be saved as a txt file in current location called "ticker_differences_OUTPUT.txt"
 
+Note: You can import the txt file directly into TradingView via the "Import List" function in TradingView. There's plenty of online documentation for how to do this so I won't cover it :)
+
 
 # Support
 You can find me on Twitter at https://twitter.com/choptradoor
