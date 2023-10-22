@@ -4,6 +4,8 @@ Output:
 1. Text file of all Bybit tickers. TradingView import compatible
 2. Tickers printed in console
 
+The output will be a .txt file containing a list of all of the Bybit USDT Futures tickers. This list is compatible to be imported directly into TradingView
+
 # How to Use it
 Simply run the code using Python command
 
